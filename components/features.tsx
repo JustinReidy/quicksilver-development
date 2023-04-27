@@ -36,7 +36,7 @@ export default function Features() {
                         <div className='max-w-xl md:max-w-none md:w-full mx0auto md:col-span-7 lg:col-span-6 md:mt-6' data-aos='fade-right'>
                             <div className='md:pr-4 lg:pr-12 xl:pr-16 mb-8'>
                                 <h3 className="h3 mb-3">Powerful suite of tools</h3>
-                                <p className='text-xl text-gray-600'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente aspernatur, neque nemo laborum error maxime!</p>
+                                <p className='text-xl text-gray-600'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore, facilis?</p>
                             </div>
                             {/* Tab buttons */}
                             <div className='mb-8 md:mb-0'>
@@ -47,7 +47,7 @@ export default function Features() {
                                 >
                                     <div>
                                         <div className='font-bold leading-snug tracking-tight mb-1'>Building Smart Sites</div>
-                                        <div className='text-gray-600'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. In sed quas nemo ipsa dolore, labore pariatur atque odit eum deleniti soluta reprehenderit, nobis fugiat, quis exercitationem vero cupiditate autem earum!</div>
+                                        <div className='text-gray-600'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore, facilis?</div>
                                     </div>
                                     <div className='flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3'>
                                         <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -62,7 +62,7 @@ export default function Features() {
                                 >
                                     <div>
                                         <div className='font-bold leading-snug tracking-tight mb-1'>Building Secure Sites</div>
-                                        <div className='text-gray-600'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. In sed quas nemo ipsa dolore, labore pariatur atque odit eum deleniti soluta reprehenderit, nobis fugiat, quis exercitationem vero cupiditate autem earum!</div>
+                                        <div className='text-gray-600'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore, facilis?</div>
                                     </div>
                                     <div className='flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3'>
                                         <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -77,7 +77,7 @@ export default function Features() {
                                 >
                                     <div>
                                         <div className='font-bold leading-snug tracking-tight mb-1'>Building Smart Sites</div>
-                                        <div className='text-gray-600'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. In sed quas nemo ipsa dolore, labore pariatur atque odit eum deleniti soluta reprehenderit, nobis fugiat, quis exercitationem vero cupiditate autem earum!</div>
+                                        <div className='text-gray-600'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore, facilis?</div>
                                     </div>
                                     <div className='flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3'>
                                         <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
