@@ -32,6 +32,9 @@ export default function Header() {
                     <nav className='hidden md:flex md:grow'>
                         <ul className='flex grow justify-end flex-wrap items-center'>
                             <li>
+                                <Link href="/" className='font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex itecms-center transition duration-150 ease-in-out'>Home</Link>
+                            </li>
+                            <li>
                                 <Link href='/signin' className='font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out'>Sign In</Link>
                             </li>
                             <li>
